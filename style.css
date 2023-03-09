@@ -12,11 +12,14 @@ body{
 	background-color:#ff6666;
 	font-family: 'Century Gothic', Arial, sans-serif;
 }
-#heading{
+.load{
 	margin-top:19vw;
 	font-size:9vw;
 	
 	transition:1s;
+}
+#heading{
+	
 	text-align:center;
 }
 #description{
@@ -26,11 +29,6 @@ body{
 	padding-left:5vw;
 	padding-right:5vw;
 	padding-bottom:10vw;
-}
-#heading:hover{
-	color:#404040;
-	transition:0.5s;
-	font-size:9.01vw;
 }
 .test{
 	transition:0.4s;
