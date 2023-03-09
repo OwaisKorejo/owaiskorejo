@@ -1,18 +1,23 @@
 #ideal_text{
 			text-align:center;
 			font-size:20px;
-		}
+}
+		
+#ideal_text:hover{
+	color:#404040;
+	transition:4s;
+}
 		
 body{
 	background-color:#ff6666;
-	font-family: 'Century Gothic';
+	font-family: 'Century Gothic', Arial, sans-serif;
 }
 #heading{
 	margin-top:19vw;
 	font-size:9vw;
 	
 	transition:1s;
-	margin-left:21.5vw;
+	text-align:center;
 }
 #description{
 	font-size:20px;
@@ -23,20 +28,21 @@ body{
 	padding-bottom:10vw;
 }
 #heading:hover{
-	margin-top:17vw;
-	font-size:10vw;
-	margin-left:18.5vw;
-	transition:1s;
+	color:#404040;
+	transition:0.5s;
+	font-size:9.01vw;
 }
 .test{
 	transition:0.4s;
 	font-size:5vw;
 	padding-top:100px;
 	
+	
 }
 .box{
 	margin-left:20vw;
 	margin-right:20vw;
+
 	background-color:white;	
 }
 
