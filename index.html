@@ -15,14 +15,16 @@
 		</div>
 	</body>	
 	<script>
-	window.onscroll = function() {myFunction()};
-
-	function myFunction() {
-	  if (document.documentElement.scrollTop > 50) {
-		document.getElementById("subheading").className = "test";
-	  } else {
-		document.getElementById("subheading").className = "";
-	  }
-	}
+		function reload(){
+			document.getElementById("heading").className = "load";
+		}
+			window.onscroll = function() {myFunction()};
+			window.onload = reload;
+		function myFunction() {
+		  if (document.documentElement.scrollTop > 50) {
+			document.getElementById("subheading").className = "test";
+		  }
+		}
+	
 	</script>
 </html>
