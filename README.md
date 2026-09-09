@@ -4,23 +4,3 @@ i'm also into entrepreneurship: i ran an e-commerce store that got $110k in sale
 
 i frequently do mixed martial arts (mma) as a hobby and i also love to read books covering extreneous topics. i don't really know what else to put here
 
-                          _____
-                     _.-'"     "'-._
-                  ,-".-.         .-."-.
-                ,'   .-.         .-.   `,
-               /    /  _\       /  _\    \
-      .-.     |     | ( |       | ( |     |     .-.
- .-----\ \   |      '---'       '---'      |   / /-----.
-:----     |--|    ',                 ,'    |--|     ----:
-:----  '-`|--|      ^"-.,_______,.-;^      |--|`-'  ----:
- '---....'   |         _        `-'        |   '....---'
-              |       [ '-"-.-"-.         |
-               \       | .-. .-. |       /
-                `.     | | | | | |     ,'
-                  `._ [___]|__]|__] _,'
-                     `--.._____..--'
-                      /  /     \  \
-              jgs    /  /       \  \
-               .---'"=="\       /"=="'---.
-              (          |     |          )
-               '--------'       '--------'
